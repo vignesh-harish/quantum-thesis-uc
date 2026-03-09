@@ -1,0 +1,102 @@
+========================================================================================================================
+CAESAR CIPHER QUANTUM-ENHANCED ATTACK METRICS (Google Cirq Simulator)
+========================================================================================================================
+
+QUANTUM SIMULATOR: Google Cirq (cirq.Simulator)
+QUANTUM ALGORITHM: Superposition-based search with measurement optimization
+QUBITS USED: 5 LineQubits (representing 32 possible states)
+QUANTUM GATES: Hadamard gates for superposition, measurement operations
+
+Key Found (Shift Value): 10
+Total Files Processed: 70
+Total Attack Time (Key Discovery): 0.067271 seconds
+Total Decryption Time: 0.000173 seconds
+Total Quantum Overhead: 0.043726 seconds
+Average Attack Time per File: 0.000961 seconds
+Average Decryption Time per File: 0.000002 seconds
+Average Quantum Overhead per File: 0.000625 seconds
+
+========================================================================================================================
+INDIVIDUAL FILE METRICS
+========================================================================================================================
+
+File Name                 | Length   | Attack (s)   | Decrypt (s)   | Quantum OH (s)  | Shift 
+------------------------------------------------------------------------------------------------------------------------
+cipher-text-1.txt         | 10       | 0.001839     | 0.000003      | 0.001195        | 10    
+cipher-text-10.txt        | 10       | 0.001038     | 0.000002      | 0.000675        | 10    
+cipher-text-11.txt        | 10       | 0.000976     | 0.000002      | 0.000634        | 10    
+cipher-text-12.txt        | 10       | 0.000984     | 0.000002      | 0.000640        | 10    
+cipher-text-13.txt        | 10       | 0.000930     | 0.000002      | 0.000605        | 10    
+cipher-text-14.txt        | 10       | 0.000965     | 0.000003      | 0.000627        | 10    
+cipher-text-15.txt        | 10       | 0.000935     | 0.000002      | 0.000608        | 10    
+cipher-text-16.txt        | 10       | 0.000948     | 0.000002      | 0.000616        | 10    
+cipher-text-17.txt        | 10       | 0.000946     | 0.000002      | 0.000615        | 10    
+cipher-text-18.txt        | 10       | 0.000914     | 0.000002      | 0.000594        | 10    
+cipher-text-19.txt        | 10       | 0.000901     | 0.000002      | 0.000585        | 10    
+cipher-text-2.txt         | 10       | 0.000925     | 0.000002      | 0.000601        | 10    
+cipher-text-20.txt        | 10       | 0.000932     | 0.000003      | 0.000606        | 10    
+cipher-text-21.txt        | 10       | 0.000910     | 0.000002      | 0.000592        | 10    
+cipher-text-22.txt        | 10       | 0.000979     | 0.000002      | 0.000636        | 10    
+cipher-text-23.txt        | 10       | 0.000963     | 0.000003      | 0.000626        | 10    
+cipher-text-24.txt        | 10       | 0.000991     | 0.000003      | 0.000644        | 10    
+cipher-text-25.txt        | 10       | 0.000953     | 0.000002      | 0.000619        | 10    
+cipher-text-26.txt        | 10       | 0.000947     | 0.000002      | 0.000616        | 10    
+cipher-text-27.txt        | 10       | 0.000947     | 0.000002      | 0.000616        | 10    
+cipher-text-28.txt        | 10       | 0.000973     | 0.000002      | 0.000632        | 10    
+cipher-text-29.txt        | 10       | 0.000986     | 0.000002      | 0.000641        | 10    
+cipher-text-3.txt         | 10       | 0.000987     | 0.000002      | 0.000641        | 10    
+cipher-text-30.txt        | 10       | 0.000958     | 0.000002      | 0.000623        | 10    
+cipher-text-31.txt        | 10       | 0.000964     | 0.000003      | 0.000627        | 10    
+cipher-text-32.txt        | 10       | 0.000972     | 0.000002      | 0.000632        | 10    
+cipher-text-33.txt        | 10       | 0.000915     | 0.000002      | 0.000595        | 10    
+cipher-text-34.txt        | 10       | 0.000902     | 0.000003      | 0.000586        | 10    
+cipher-text-35.txt        | 10       | 0.000921     | 0.000002      | 0.000599        | 10    
+cipher-text-36.txt        | 10       | 0.000910     | 0.000003      | 0.000592        | 10    
+cipher-text-37.txt        | 10       | 0.000919     | 0.000003      | 0.000597        | 10    
+cipher-text-38.txt        | 10       | 0.000918     | 0.000003      | 0.000597        | 10    
+cipher-text-39.txt        | 10       | 0.000906     | 0.000002      | 0.000589        | 10    
+cipher-text-4.txt         | 10       | 0.000922     | 0.000002      | 0.000599        | 10    
+cipher-text-40.txt        | 10       | 0.000903     | 0.000003      | 0.000587        | 10    
+cipher-text-41.txt        | 10       | 0.000906     | 0.000002      | 0.000589        | 10    
+cipher-text-42.txt        | 10       | 0.000896     | 0.000003      | 0.000582        | 10    
+cipher-text-43.txt        | 10       | 0.000942     | 0.000003      | 0.000612        | 10    
+cipher-text-44.txt        | 10       | 0.000938     | 0.000002      | 0.000610        | 10    
+cipher-text-45.txt        | 10       | 0.000950     | 0.000003      | 0.000617        | 10    
+cipher-text-46.txt        | 10       | 0.000898     | 0.000003      | 0.000584        | 10    
+cipher-text-47.txt        | 10       | 0.000941     | 0.000002      | 0.000612        | 10    
+cipher-text-48.txt        | 10       | 0.000928     | 0.000002      | 0.000603        | 10    
+cipher-text-49.txt        | 10       | 0.000937     | 0.000003      | 0.000609        | 10    
+cipher-text-5.txt         | 10       | 0.000904     | 0.000002      | 0.000588        | 10    
+cipher-text-50.txt        | 10       | 0.000900     | 0.000003      | 0.000585        | 10    
+cipher-text-51.txt        | 10       | 0.000930     | 0.000003      | 0.000605        | 10    
+cipher-text-52.txt        | 10       | 0.000938     | 0.000003      | 0.000610        | 10    
+cipher-text-53.txt        | 10       | 0.000939     | 0.000003      | 0.000610        | 10    
+cipher-text-54.txt        | 10       | 0.000905     | 0.000002      | 0.000588        | 10    
+cipher-text-55.txt        | 10       | 0.000936     | 0.000002      | 0.000608        | 10    
+cipher-text-56.txt        | 10       | 0.000920     | 0.000003      | 0.000598        | 10    
+cipher-text-57.txt        | 10       | 0.000937     | 0.000003      | 0.000609        | 10    
+cipher-text-58.txt        | 10       | 0.000922     | 0.000002      | 0.000599        | 10    
+cipher-text-59.txt        | 10       | 0.000916     | 0.000002      | 0.000595        | 10    
+cipher-text-6.txt         | 10       | 0.000927     | 0.000002      | 0.000603        | 10    
+cipher-text-60.txt        | 10       | 0.000919     | 0.000003      | 0.000597        | 10    
+cipher-text-61.txt        | 10       | 0.001343     | 0.000003      | 0.000873        | 10    
+cipher-text-62.txt        | 10       | 0.000937     | 0.000002      | 0.000609        | 10    
+cipher-text-63.txt        | 10       | 0.000932     | 0.000003      | 0.000606        | 10    
+cipher-text-64.txt        | 10       | 0.000944     | 0.000002      | 0.000614        | 10    
+cipher-text-65.txt        | 10       | 0.000983     | 0.000002      | 0.000639        | 10    
+cipher-text-66.txt        | 10       | 0.000983     | 0.000003      | 0.000639        | 10    
+cipher-text-67.txt        | 10       | 0.000962     | 0.000003      | 0.000625        | 10    
+cipher-text-68.txt        | 10       | 0.000945     | 0.000003      | 0.000614        | 10    
+cipher-text-69.txt        | 10       | 0.000987     | 0.000003      | 0.000641        | 10    
+cipher-text-7.txt         | 10       | 0.000989     | 0.000003      | 0.000643        | 10    
+cipher-text-70.txt        | 10       | 0.000985     | 0.000003      | 0.000640        | 10    
+cipher-text-8.txt         | 10       | 0.000991     | 0.000002      | 0.000644        | 10    
+cipher-text-9.txt         | 10       | 0.000982     | 0.000003      | 0.000638        | 10    
+========================================================================================================================
+
+NOTES:
+- Quantum Overhead: Time spent on quantum circuit creation and execution
+- This implementation uses Google Cirq simulator for quantum operations
+- LineQubits provide a linear qubit topology for the quantum circuit
+- Measurement results guide the classical search optimization
+- Cirq's simulator provides high-fidelity quantum state simulation

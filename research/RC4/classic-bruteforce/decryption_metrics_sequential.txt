@@ -1,0 +1,89 @@
+==================================================================================================================================
+RC4 CIPHER KNOWN-PLAINTEXT ATTACK METRICS (Sequential Mode)
+==================================================================================================================================
+
+Key Found: akey5
+Key Length: 5
+Total Files Processed: 70
+Total Attack Time (Key Discovery): 955.139857 seconds
+Total Decryption Time: 0.002239 seconds
+Average Attack Time per File: 13.644855 seconds
+Average Decryption Time per File: 0.000032 seconds
+
+==================================================================================================================================
+INDIVIDUAL FILE METRICS
+==================================================================================================================================
+
+File Name                 | Length   | Attack Time (s)  | Decrypt Time (s)  | Key        | Match  | Decrypted Text                
+----------------------------------------------------------------------------------------------------------------------------------
+rc4-text-1.txt            | 10       | 13.412895        | 0.000040          | akey5      | ✓      | csSWj9DxQS                    
+rc4-text-10.txt           | 10       | 13.685416        | 0.000028          | akey5      | ✓      | rd4UGE28xA                    
+rc4-text-11.txt           | 10       | 13.646097        | 0.000039          | akey5      | ✓      | N24nDGTE7T                    
+rc4-text-12.txt           | 10       | 13.857321        | 0.000030          | akey5      | ✓      | 6iCJtE49Fy                    
+rc4-text-13.txt           | 10       | 13.872041        | 0.000034          | akey5      | ✓      | f8mjVt1fVl                    
+rc4-text-14.txt           | 10       | 13.684234        | 0.000032          | akey5      | ✓      | 92JaEPHtXI                    
+rc4-text-15.txt           | 10       | 13.733886        | 0.000036          | akey5      | ✓      | cxLMboGuEs                    
+rc4-text-16.txt           | 10       | 13.552172        | 0.000031          | akey5      | ✓      | LmnVP8mcmC                    
+rc4-text-17.txt           | 10       | 13.715546        | 0.000032          | akey5      | ✓      | of7P8Dbi2t                    
+rc4-text-18.txt           | 10       | 13.790067        | 0.000030          | akey5      | ✓      | tsKjqoZED4                    
+rc4-text-19.txt           | 10       | 13.705132        | 0.000030          | akey5      | ✓      | FlJnZ6usuZ                    
+rc4-text-2.txt            | 10       | 13.709651        | 0.000040          | akey5      | ✓      | AHIS3hlyos                    
+rc4-text-20.txt           | 10       | 13.708795        | 0.000034          | akey5      | ✓      | 7Kle0p5Dt5                    
+rc4-text-21.txt           | 10       | 13.693271        | 0.000030          | akey5      | ✓      | CCs76qEQfy                    
+rc4-text-22.txt           | 10       | 13.633027        | 0.000031          | akey5      | ✓      | EhONzI6Rbn                    
+rc4-text-23.txt           | 10       | 13.652421        | 0.000032          | akey5      | ✓      | AssG2oCDHC                    
+rc4-text-24.txt           | 10       | 13.596869        | 0.000031          | akey5      | ✓      | etB7pYCsq3                    
+rc4-text-25.txt           | 10       | 13.583452        | 0.000030          | akey5      | ✓      | ehXADAr8MB                    
+rc4-text-26.txt           | 10       | 13.625403        | 0.000031          | akey5      | ✓      | VD8SV06GhM                    
+rc4-text-27.txt           | 10       | 13.608303        | 0.000031          | akey5      | ✓      | RcgZkeMwu6                    
+rc4-text-28.txt           | 10       | 13.613491        | 0.000031          | akey5      | ✓      | 6hsSDCiugj                    
+rc4-text-29.txt           | 10       | 13.598863        | 0.000031          | akey5      | ✓      | uGNZaqj0Wm                    
+rc4-text-3.txt            | 10       | 13.538630        | 0.000032          | akey5      | ✓      | rAFqftvbeE                    
+rc4-text-30.txt           | 10       | 13.645712        | 0.000033          | akey5      | ✓      | eYMVlwSINx                    
+rc4-text-31.txt           | 10       | 13.609020        | 0.000030          | akey5      | ✓      | rhGEKlDtLe                    
+rc4-text-32.txt           | 10       | 13.575199        | 0.000030          | akey5      | ✓      | 3NG3huhZtl                    
+rc4-text-33.txt           | 10       | 13.567988        | 0.000032          | akey5      | ✓      | CLBDcUXGR2                    
+rc4-text-34.txt           | 10       | 13.555876        | 0.000032          | akey5      | ✓      | xD8ym6tdA1                    
+rc4-text-35.txt           | 10       | 13.564623        | 0.000031          | akey5      | ✓      | Zqumpm08hs                    
+rc4-text-36.txt           | 10       | 13.605135        | 0.000031          | akey5      | ✓      | 0mgt7QU3qV                    
+rc4-text-37.txt           | 10       | 13.578699        | 0.000032          | akey5      | ✓      | jCwMkppUSF                    
+rc4-text-38.txt           | 10       | 13.586361        | 0.000031          | akey5      | ✓      | rzI5T39Axx                    
+rc4-text-39.txt           | 10       | 13.558710        | 0.000030          | akey5      | ✓      | G1DvJIyE1b                    
+rc4-text-4.txt            | 10       | 13.571575        | 0.000039          | akey5      | ✓      | 4ezcLL34oO                    
+rc4-text-40.txt           | 10       | 13.588573        | 0.000032          | akey5      | ✓      | jXFGs0ZlYk                    
+rc4-text-41.txt           | 10       | 13.566060        | 0.000031          | akey5      | ✓      | F22Dfiycd8                    
+rc4-text-42.txt           | 10       | 13.553445        | 0.000030          | akey5      | ✓      | Us6XcFaHQu                    
+rc4-text-43.txt           | 10       | 13.637878        | 0.000031          | akey5      | ✓      | mSN0gu58mo                    
+rc4-text-44.txt           | 10       | 13.579799        | 0.000031          | akey5      | ✓      | YXbJ1uVaXe                    
+rc4-text-45.txt           | 10       | 13.598749        | 0.000033          | akey5      | ✓      | jVm410IgrW                    
+rc4-text-46.txt           | 10       | 13.588604        | 0.000031          | akey5      | ✓      | zmv5lOaHXS                    
+rc4-text-47.txt           | 10       | 13.362314        | 0.000032          | akey5      | ✓      | fXMTqiw2ej                    
+rc4-text-48.txt           | 10       | 13.549700        | 0.000031          | akey5      | ✓      | nTfEQKLtO4                    
+rc4-text-49.txt           | 10       | 13.455208        | 0.000030          | akey5      | ✓      | fLl9RRkz8D                    
+rc4-text-5.txt            | 10       | 13.667612        | 0.000031          | akey5      | ✓      | weBJDKvqGy                    
+rc4-text-50.txt           | 10       | 13.550159        | 0.000032          | akey5      | ✓      | AHKJJYLrZZ                    
+rc4-text-51.txt           | 10       | 13.589366        | 0.000032          | akey5      | ✓      | 62F6KUw4hf                    
+rc4-text-52.txt           | 10       | 13.640373        | 0.000031          | akey5      | ✓      | Ilh0rtB2bR                    
+rc4-text-53.txt           | 10       | 13.567857        | 0.000032          | akey5      | ✓      | WIGVIY73i8                    
+rc4-text-54.txt           | 10       | 13.714030        | 0.000035          | akey5      | ✓      | xu6Rz7ng0v                    
+rc4-text-55.txt           | 10       | 14.030924        | 0.000030          | akey5      | ✓      | mBZx610YdK                    
+rc4-text-56.txt           | 10       | 13.948481        | 0.000032          | akey5      | ✓      | wK1cwAdEsU                    
+rc4-text-57.txt           | 10       | 13.831046        | 0.000031          | akey5      | ✓      | zymMlopiWf                    
+rc4-text-58.txt           | 10       | 13.773574        | 0.000031          | akey5      | ✓      | jDD8XlTzUw                    
+rc4-text-59.txt           | 10       | 13.777788        | 0.000032          | akey5      | ✓      | L2m69I7wDd                    
+rc4-text-6.txt            | 10       | 13.827464        | 0.000031          | akey5      | ✓      | JuiJTItY8G                    
+rc4-text-60.txt           | 10       | 14.078579        | 0.000030          | akey5      | ✓      | jRNwkJTQMl                    
+rc4-text-61.txt           | 10       | 13.639828        | 0.000040          | akey5      | ✓      | TD7USV0nSe                    
+rc4-text-62.txt           | 10       | 13.612627        | 0.000032          | akey5      | ✓      | 9b3mUXozva                    
+rc4-text-63.txt           | 10       | 13.619352        | 0.000032          | akey5      | ✓      | 4LwLYg8atH                    
+rc4-text-64.txt           | 10       | 13.692707        | 0.000032          | akey5      | ✓      | T5EbJ8H0Ed                    
+rc4-text-65.txt           | 10       | 13.576352        | 0.000032          | akey5      | ✓      | pNLXUQBEWt                    
+rc4-text-66.txt           | 10       | 13.611362        | 0.000030          | akey5      | ✓      | iT0f4QyUry                    
+rc4-text-67.txt           | 10       | 13.625937        | 0.000031          | akey5      | ✓      | roDCJdgoGF                    
+rc4-text-68.txt           | 10       | 13.641892        | 0.000034          | akey5      | ✓      | 7yY0MpAETr                    
+rc4-text-69.txt           | 10       | 13.606973        | 0.000031          | akey5      | ✓      | 08n68uFmzA                    
+rc4-text-7.txt            | 10       | 13.591518        | 0.000031          | akey5      | ✓      | ewA7huWJGZ                    
+rc4-text-70.txt           | 10       | 13.638551        | 0.000032          | akey5      | ✓      | E1QLNtSD5A                    
+rc4-text-8.txt            | 10       | 13.578424        | 0.000030          | akey5      | ✓      | F2rxO5pSEX                    
+rc4-text-9.txt            | 10       | 13.590869        | 0.000033          | akey5      | ✓      | p1GJkp0o1J                    
+==================================================================================================================================

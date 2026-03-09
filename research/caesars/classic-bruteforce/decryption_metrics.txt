@@ -1,0 +1,88 @@
+========================================================================================================================
+CAESAR CIPHER KNOWN-PLAINTEXT ATTACK METRICS
+========================================================================================================================
+
+Key Found (Shift Value): 10
+Total Files Processed: 70
+Total Attack Time (Key Discovery): 0.001547 seconds
+Total Decryption Time: 0.000146 seconds
+Average Attack Time per File: 0.000022 seconds
+Average Decryption Time per File: 0.000002 seconds
+
+========================================================================================================================
+INDIVIDUAL FILE METRICS
+========================================================================================================================
+
+File Name                 | Length   | Attack Time (s)  | Decrypt Time (s)  | Shift  | Decrypted Text                
+------------------------------------------------------------------------------------------------------------------------
+cipher-text-1.txt         | 10       | 0.000027         | 0.000003          | 10     | csSWj9DxQS                    
+cipher-text-10.txt        | 10       | 0.000024         | 0.000003          | 10     | rd4UGE28xA                    
+cipher-text-11.txt        | 10       | 0.000023         | 0.000002          | 10     | N24nDGTE7T                    
+cipher-text-12.txt        | 10       | 0.000023         | 0.000002          | 10     | 6iCJtE49Fy                    
+cipher-text-13.txt        | 10       | 0.000022         | 0.000002          | 10     | f8mjVt1fVl                    
+cipher-text-14.txt        | 10       | 0.000022         | 0.000002          | 10     | 92JaEPHtXI                    
+cipher-text-15.txt        | 10       | 0.000021         | 0.000002          | 10     | cxLMboGuEs                    
+cipher-text-16.txt        | 10       | 0.000022         | 0.000002          | 10     | LmnVP8mcmC                    
+cipher-text-17.txt        | 10       | 0.000022         | 0.000002          | 10     | of7P8Dbi2t                    
+cipher-text-18.txt        | 10       | 0.000021         | 0.000003          | 10     | tsKjqoZED4                    
+cipher-text-19.txt        | 10       | 0.000022         | 0.000002          | 10     | FlJnZ6usuZ                    
+cipher-text-2.txt         | 10       | 0.000022         | 0.000002          | 10     | AHIS3hlyos                    
+cipher-text-20.txt        | 10       | 0.000022         | 0.000002          | 10     | 7Kle0p5Dt5                    
+cipher-text-21.txt        | 10       | 0.000022         | 0.000003          | 10     | CCs76qEQfy                    
+cipher-text-22.txt        | 10       | 0.000022         | 0.000002          | 10     | EhONzI6Rbn                    
+cipher-text-23.txt        | 10       | 0.000021         | 0.000002          | 10     | AssG2oCDHC                    
+cipher-text-24.txt        | 10       | 0.000022         | 0.000002          | 10     | etB7pYCsq3                    
+cipher-text-25.txt        | 10       | 0.000022         | 0.000002          | 10     | ehXADAr8MB                    
+cipher-text-26.txt        | 10       | 0.000023         | 0.000002          | 10     | VD8SV06GhM                    
+cipher-text-27.txt        | 10       | 0.000021         | 0.000003          | 10     | RcgZkeMwu6                    
+cipher-text-28.txt        | 10       | 0.000021         | 0.000002          | 10     | 6hsSDCiugj                    
+cipher-text-29.txt        | 10       | 0.000022         | 0.000002          | 10     | uGNZaqj0Wm                    
+cipher-text-3.txt         | 10       | 0.000021         | 0.000002          | 10     | rAFqftvbeE                    
+cipher-text-30.txt        | 10       | 0.000021         | 0.000002          | 10     | eYMVlwSINx                    
+cipher-text-31.txt        | 10       | 0.000021         | 0.000002          | 10     | rhGEKlDtLe                    
+cipher-text-32.txt        | 10       | 0.000022         | 0.000002          | 10     | 3NG3huhZtl                    
+cipher-text-33.txt        | 10       | 0.000022         | 0.000002          | 10     | CLBDcUXGR2                    
+cipher-text-34.txt        | 10       | 0.000022         | 0.000002          | 10     | xD8ym6tdA1                    
+cipher-text-35.txt        | 10       | 0.000022         | 0.000002          | 10     | Zqumpm08hs                    
+cipher-text-36.txt        | 10       | 0.000022         | 0.000002          | 10     | 0mgt7QU3qV                    
+cipher-text-37.txt        | 10       | 0.000022         | 0.000002          | 10     | jCwMkppUSF                    
+cipher-text-38.txt        | 10       | 0.000022         | 0.000002          | 10     | rzI5T39Axx                    
+cipher-text-39.txt        | 10       | 0.000022         | 0.000002          | 10     | G1DvJIyE1b                    
+cipher-text-4.txt         | 10       | 0.000023         | 0.000002          | 10     | 4ezcLL34oO                    
+cipher-text-40.txt        | 10       | 0.000021         | 0.000002          | 10     | jXFGs0ZlYk                    
+cipher-text-41.txt        | 10       | 0.000022         | 0.000002          | 10     | F22Dfiycd8                    
+cipher-text-42.txt        | 10       | 0.000021         | 0.000003          | 10     | Us6XcFaHQu                    
+cipher-text-43.txt        | 10       | 0.000022         | 0.000002          | 10     | mSN0gu58mo                    
+cipher-text-44.txt        | 10       | 0.000022         | 0.000002          | 10     | YXbJ1uVaXe                    
+cipher-text-45.txt        | 10       | 0.000023         | 0.000002          | 10     | jVm410IgrW                    
+cipher-text-46.txt        | 10       | 0.000022         | 0.000002          | 10     | zmv5lOaHXS                    
+cipher-text-47.txt        | 10       | 0.000021         | 0.000002          | 10     | fXMTqiw2ej                    
+cipher-text-48.txt        | 10       | 0.000022         | 0.000002          | 10     | nTfEQKLtO4                    
+cipher-text-49.txt        | 10       | 0.000022         | 0.000002          | 10     | fLl9RRkz8D                    
+cipher-text-5.txt         | 10       | 0.000022         | 0.000002          | 10     | weBJDKvqGy                    
+cipher-text-50.txt        | 10       | 0.000022         | 0.000002          | 10     | AHKJJYLrZZ                    
+cipher-text-51.txt        | 10       | 0.000023         | 0.000003          | 10     | 62F6KUw4hf                    
+cipher-text-52.txt        | 10       | 0.000022         | 0.000002          | 10     | Ilh0rtB2bR                    
+cipher-text-53.txt        | 10       | 0.000022         | 0.000002          | 10     | WIGVIY73i8                    
+cipher-text-54.txt        | 10       | 0.000023         | 0.000002          | 10     | xu6Rz7ng0v                    
+cipher-text-55.txt        | 10       | 0.000022         | 0.000002          | 10     | mBZx610YdK                    
+cipher-text-56.txt        | 10       | 0.000022         | 0.000002          | 10     | wK1cwAdEsU                    
+cipher-text-57.txt        | 10       | 0.000021         | 0.000002          | 10     | zymMlopiWf                    
+cipher-text-58.txt        | 10       | 0.000024         | 0.000002          | 10     | jDD8XlTzUw                    
+cipher-text-59.txt        | 10       | 0.000025         | 0.000002          | 10     | L2m69I7wDd                    
+cipher-text-6.txt         | 10       | 0.000022         | 0.000002          | 10     | JuiJTItY8G                    
+cipher-text-60.txt        | 10       | 0.000021         | 0.000002          | 10     | jRNwkJTQMl                    
+cipher-text-61.txt        | 10       | 0.000023         | 0.000002          | 10     | TD7USV0nSe                    
+cipher-text-62.txt        | 10       | 0.000022         | 0.000002          | 10     | 9b3mUXozva                    
+cipher-text-63.txt        | 10       | 0.000022         | 0.000002          | 10     | 4LwLYg8atH                    
+cipher-text-64.txt        | 10       | 0.000027         | 0.000003          | 10     | T5EbJ8H0Ed                    
+cipher-text-65.txt        | 10       | 0.000020         | 0.000002          | 10     | pNLXUQBEWt                    
+cipher-text-66.txt        | 10       | 0.000021         | 0.000002          | 10     | iT0f4QyUry                    
+cipher-text-67.txt        | 10       | 0.000020         | 0.000002          | 10     | roDCJdgoGF                    
+cipher-text-68.txt        | 10       | 0.000022         | 0.000002          | 10     | 7yY0MpAETr                    
+cipher-text-69.txt        | 10       | 0.000022         | 0.000002          | 10     | 08n68uFmzA                    
+cipher-text-7.txt         | 10       | 0.000021         | 0.000002          | 10     | ewA7huWJGZ                    
+cipher-text-70.txt        | 10       | 0.000022         | 0.000002          | 10     | E1QLNtSD5A                    
+cipher-text-8.txt         | 10       | 0.000021         | 0.000002          | 10     | F2rxO5pSEX                    
+cipher-text-9.txt         | 10       | 0.000022         | 0.000002          | 10     | p1GJkp0o1J                    
+========================================================================================================================
