@@ -49,7 +49,7 @@ Each cipher is attacked using:
 
 ```
 quantum-thesis-uc/
-├── compare-against-same-key/
+├── research/
 │   ├── plaintext_samples/          # 70 test plaintext files
 │   ├── caesars/
 │   │   ├── ciphertext_samples/     # 70 Caesar-encrypted files
@@ -96,26 +96,26 @@ pip install cuquantum-python           # NVIDIA cuQuantum (requires CUDA GPU)
 
 #### Classical Brute-Force
 ```bash
-cd compare-against-same-key/caesars/classic-bruteforce
+cd research/caesars/classic-bruteforce
 python dec-caesars.py
 ```
 
 #### Quantum Simulators
 ```bash
 # IBM Qiskit Aer
-cd compare-against-same-key/caesars/quantum-simulators/ibm-qiskit-aer
+cd research/caesars/quantum-simulators/ibm-qiskit-aer
 python dec-caesars-qiskit.py
 
 # Google Cirq
-cd compare-against-same-key/caesars/quantum-simulators/google-cirq
+cd research/caesars/quantum-simulators/google-cirq
 python dec-caesars-cirq.py
 
 # Amazon Braket
-cd compare-against-same-key/caesars/quantum-simulators/amazon-braket
+cd research/caesars/quantum-simulators/amazon-braket
 python dec-caesars-braket.py
 
 # NVIDIA cuQuantum
-cd compare-against-same-key/caesars/quantum-simulators/nvidia-cuquantum
+cd research/caesars/quantum-simulators/nvidia-cuquantum
 python dec-caesars-cuquantum.py
 ```
 
@@ -123,26 +123,26 @@ python dec-caesars-cuquantum.py
 
 #### Classical Sequential Attack
 ```bash
-cd compare-against-same-key/RC4/classic-bruteforce
+cd research/RC4/classic-bruteforce
 python dec-rc4-sequential.py
 ```
 
 #### Quantum Simulators
 ```bash
 # IBM Qiskit Aer
-cd compare-against-same-key/RC4/quantum-simulators/ibm-qiskit-aer
+cd research/RC4/quantum-simulators/ibm-qiskit-aer
 python dec-rc4-aer.py
 
 # Google Cirq
-cd compare-against-same-key/RC4/quantum-simulators/google-cirq
+cd research/RC4/quantum-simulators/google-cirq
 python dec-rc4-cirq.py
 
 # Amazon Braket
-cd compare-against-same-key/RC4/quantum-simulators/amazon-braket
+cd research/RC4/quantum-simulators/amazon-braket
 python dec-rc4-braket.py
 
 # NVIDIA cuQuantum
-cd compare-against-same-key/RC4/quantum-simulators/nvidia-cuquantum
+cd research/RC4/quantum-simulators/nvidia-cuquantum
 python dec-rc4-cuquantum.py
 ```
 
